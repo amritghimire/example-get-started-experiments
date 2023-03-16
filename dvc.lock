@@ -85,3 +85,5 @@ stages:
       md5: a7afdb393e7dfce01c4b31c045804662.dir
       size: 1327164
       nfiles: 10
+  stage1:
+    cmd: echo "JPT 6"
